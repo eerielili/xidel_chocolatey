@@ -8,7 +8,6 @@ $packageArgs = @{
   unzipLocation = $toolsDir
   fileType      = 'exe'
   url           = $url
-  url64         = $url
   softwareName  = 'xidel*'
 
   checksum      = '96854C2BE1E3755F56FABB8F00D1FE567108461B9FAB139039219A1B7C17E382'
