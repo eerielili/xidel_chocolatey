@@ -28,7 +28,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- Is the version a prerelease of a version? https://docs.nuget.org/create/versioning#creating-prerelease-packages -->
     <!-- Note that unstable versions like 0.0.1 can be considered a released version, but it's possible that one can release a 0.0.1-beta before you release a 0.0.1 version. If the version number is final, that is considered a released version and not a prerelease. -->
     <version>0.9.8</version>
-    <packageSourceUrl>https://github.com/benibela/xidel</packageSourceUrl>
+    <packageSourceUrl>https://gitea.miquellionel.ovh/lili/xidel_chocolatey</packageSourceUrl>
     <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
     <owners>lili</owners>
     <!-- ============================== -->
@@ -44,9 +44,9 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- If there is a license Url available, it is required for the community feed -->
     <licenseUrl>https://github.com/benibela/xidel/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://gitea.miquellionel.ovh/lili/xidel_chocolatey</projectSourceUrl>
+    <projectSourceUrl>https://github.com/benibela/xidel</projectSourceUrl>
     <docsUrl>https://github.com/benibela/xidel/wiki</docsUrl>
-    <mailingListUrl>https://sourceforge.net/p/videlibri/mailman/</mailingListUrl>
+    <mailingListUrl>https://sourceforge.net/p/videlibri/mailman/videlibri-xidel/</mailingListUrl>
     <bugTrackerUrl>https://github.com/benibela/xidel/issues</bugTrackerUrl>
     <tags>xidel html xml json api parser</tags>
     <summary> Xidel is a command line tool to download and extract data from HTML/XML pages as well as JSON APIs .</summary>
